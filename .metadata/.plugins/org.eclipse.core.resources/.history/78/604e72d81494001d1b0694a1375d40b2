@@ -1,0 +1,8 @@
+
+public class principal {
+
+	//este es el metodo principal de un programa en java y es lo primero que inicia
+	public static void main(String[] args) {
+		
+	}
+}
