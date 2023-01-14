@@ -1,0 +1,12 @@
+
+public class VariablesConstantes {
+	public static void main(String[] args) {
+
+		// declare la variable goles
+		byte goles = 4;		
+		System.out.println(goles);
+		goles = 8;
+		System.out.println(goles);
+
+	}
+}

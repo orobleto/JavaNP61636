@@ -1,0 +1,7 @@
+
+public class OperadoresAsignacion {
+	public static void main(String[] args) {
+		int numero1,numero2;
+		double total;
+	}
+}

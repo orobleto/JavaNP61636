@@ -1,0 +1,11 @@
+
+public class VariablesConstantes {
+	public static void main(String[] args) {
+
+		byte goles = 2;
+		
+		
+		System.out.println(goles);
+
+	}
+}

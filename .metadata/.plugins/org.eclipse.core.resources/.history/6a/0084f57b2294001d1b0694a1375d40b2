@@ -1,0 +1,11 @@
+
+public class Operadores {
+	public static void main(String[] args) {
+	 short edad = 39; 
+	 boolean mayorEdad = true;
+	 System.out.print("edad "+ edad + " y es mayor de edad? " + mayorEdad) ;
+	 
+	 System.out.println(2+2);
+	 
+	}
+}

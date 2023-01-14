@@ -1,0 +1,9 @@
+
+public class VariablesConstantes {
+	public static void main(String[] args) {
+
+		// tipado fuerte - fuertemente tipado
+		
+		System.out.println(2*2);
+	}
+}
