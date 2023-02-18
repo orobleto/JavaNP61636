@@ -1,7 +1,6 @@
 package arreglos;
 
 import java.util.Arrays;
-import java.util.Iterator;
 
 import javax.swing.JOptionPane;
 
